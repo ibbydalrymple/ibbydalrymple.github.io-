@@ -127,7 +127,7 @@ figure figcaption {
   width: 150px;
   height: 150px;
   margin: 0 auto;
-  margin-bottom: 0px;
+  margin-bottom: 30px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -369,7 +369,7 @@ figure figcaption {
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
   margin: 0;
   padding: 0;
-  color: black;
+  color: black; 
   font-family: "Playfair Display", Georgia, serif;
 }
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
