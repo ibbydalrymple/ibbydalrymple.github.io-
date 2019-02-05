@@ -1143,6 +1143,14 @@ body.offcanvas .colorlib-nav-toggle {
   letter-spacing: 1px;
   font-family: "Quicksand", Arial, sans-serif;
 }
+.blog-entry .blog-img {
+  width: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 25px;
+}
 .blog-entry .desc h3 a {
   color: #000;
   text-decoration: none;
