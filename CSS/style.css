@@ -94,11 +94,11 @@ figure figcaption {
 }
 
 #setheighttop {
-  height: 500px;
+  height: 400px;
 }
 
 #setheightbottom {
-  height: 400px;
+  height: 300px;
   max-width: 300px;
 }
 
