@@ -93,6 +93,15 @@ figure figcaption {
   background: #2c98f0;
 }
 
+#setheighttop {
+  height: 500px;
+}
+
+#setheightbottom {
+  height: 400px;
+  max-width: 300px;
+}
+
 #colorlib-page {
   width: 100%;
   overflow: hidden;
@@ -369,7 +378,7 @@ figure figcaption {
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
   margin: 0;
   padding: 0;
-  color: black; 
+  color: black;
   font-family: "Playfair Display", Georgia, serif;
 }
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
@@ -1143,14 +1152,7 @@ body.offcanvas .colorlib-nav-toggle {
   letter-spacing: 1px;
   font-family: "Quicksand", Arial, sans-serif;
 }
-.blog-entry .blog-img {
-  width: 100%;
-  float: left;
-  overflow: hidden;
-  position: relative;
-  z-index: 1;
-  margin-bottom: 25px;
-}
+
 .blog-entry .desc h3 a {
   color: #000;
   text-decoration: none;
